@@ -2,14 +2,11 @@
   "author" : "isaac as THE HONEY BADGER, tealsummernights",
   "description" : "^#5aa9d6;Collection of additions to randomized weapon generation.^reset;
 
-Currently features broadsword (tons), dagger, staff, and wand pieces by tealsummernights; spear, hammer, axe pieces by ihcathb; more to come.
-
-For more, or to contribute, follow links from the steam page.",
-  "friendlyName" : "Open Armory",
+Weapon parts by tealsummernights and ihcathb. Curated by tealsummernights.“,
+  "friendlyName" : “TEAL Armory",
   "includes" : [],
-  "link" : "steam://url/CommunityFilePage/802382977",
+  "link" : "https://github.com/tealsummernights/tealdidthis",
   "name" : "RANARM.IHC",
   "requires" : [],
-  "steamContentId" : "802382977",
-  "version" : "0.6"
+  "version" : “teal”
 }
