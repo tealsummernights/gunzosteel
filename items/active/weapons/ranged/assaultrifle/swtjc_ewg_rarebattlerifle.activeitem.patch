@@ -1,0 +1,17 @@
+[[
+  {
+    "op": "replace",
+    "path": "/builderConfig/0/animationParts/butt/variants",
+    "value": 21//arbf
+  },
+  {
+    "op": "replace",
+    "path": "/builderConfig/0/animationParts/middle/variants",
+    "value": 21//armf
+  },
+  {
+    "op": "replace",
+    "path": "/builderConfig/0/animationParts/barrel/variants",
+    "value": 20//sgbaf
+  }
+]]
