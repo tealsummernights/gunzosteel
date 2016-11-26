@@ -2,11 +2,11 @@
   "author" : "isaac as THE HONEY BADGER, tealsummernights",
   "description" : "^#5aa9d6;Collection of additions to randomized weapon generation.^reset;
 
-Weapon parts by tealsummernights and ihcathb. Curated by tealsummernights.“,
-  "friendlyName" : “TEAL Armory",
+Weapon parts by tealsummernights and ihcathb. Curated by tealsummernights.",
+  "friendlyName" : "TEAL Armory",
   "includes" : [],
   "link" : "https://github.com/tealsummernights/tealdidthis",
   "name" : "RANARM.IHC",
   "requires" : [],
-  "version" : “teal”
+  "version" : "teal"
 }
