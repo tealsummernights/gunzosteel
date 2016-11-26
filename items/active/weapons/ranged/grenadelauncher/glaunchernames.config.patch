@@ -1,18 +1,11 @@
-[[
+[
   {
-    "op": "replace",
-    "path": "/builderConfig/0/animationParts/butt/variants",
-    "value": 21//glbf
+    "op": "test",
+    "path": "/nameGen/1/1/3"
   },
   {
-    "op": "replace",
-    "path": "/builderConfig/0/animationParts/middle/variants",
-    "value": 21//glmf
-  },
-  {
-    "op": "replace",
-    "path": "/builderConfig/0/animationParts/barrel/variants",
-    "value": 21//glbaf
+    "op": "add",
+    "path": "/nameGen/1/1/-",
+    "value": "RanArm Inc. "
   }
-]]
-
+]
