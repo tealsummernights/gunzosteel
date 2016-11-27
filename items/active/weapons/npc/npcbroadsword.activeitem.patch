@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/builderConfig/0/animationParts/handle/variants",
+    "value": 49
+  },
+  {
+    "op": "replace",
+    "path": "/builderConfig/0/animationParts/blade/variants",
+    "value": 76
+  }
+]
