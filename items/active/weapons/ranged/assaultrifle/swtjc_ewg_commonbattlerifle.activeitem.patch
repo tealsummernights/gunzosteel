@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/builderConfig/0/animationParts/butt/variants",
-    "value": 21//arbf
+    "value": 22//arbf
   },
   {
     "op": "replace",
     "path": "/builderConfig/0/animationParts/middle/variants",
-    "value": 21//armf
+    "value": 22//armf
   },
   {
     "op": "replace",
