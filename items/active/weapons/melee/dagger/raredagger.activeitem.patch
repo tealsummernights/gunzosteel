@@ -7,6 +7,6 @@
   {
     "op": "replace",
     "path": "/builderConfig/0/animationParts/blade/variants",
-    "value": 23
+    "value": 22
   }
 ]
