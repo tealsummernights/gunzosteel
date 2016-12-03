@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/builderConfig/0/animationParts/middle/variants",
-    "value": 21//rlmf
+    "value": 22//rlmf
   },
   {
     "op": "replace",
